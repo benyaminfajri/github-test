@@ -1,7 +1,0 @@
-test
-<<<<<<< HEAD
-ini edit dari master
-Ini tambahan dari branch2
-=======
-tambahan branch 1 yan kedua
->>>>>>> branch1
