@@ -1,2 +1,3 @@
 test
 ini edit dari master
+Ini tambahan dari branch2
